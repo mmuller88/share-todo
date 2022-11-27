@@ -10,6 +10,11 @@
       "StackName": "amplify-sharetodo-dev-90055",
       "StackId": "arn:aws:cloudformation:eu-central-1:981237193288:stack/amplify-sharetodo-dev-90055/9fe8ebf0-6e29-11ed-808f-0a422088f326",
       "AmplifyAppId": "d37rxl8knuizs0"
+    },
+    "categories": {
+      "auth": {
+        "sharetodo0ca9bd04": {}
+      }
     }
   }
 }
